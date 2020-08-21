@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4F154AF2-8FA2-4D78-AD90-8358437A47AA}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>VeterinerKlinik</RootNamespace>
+    <AssemblyName>VeterinerKlinik</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataAccess\Baglanti.cs" />
+    <Compile Include="Entity\BaseEntity.cs" />
+    <Compile Include="Entity\Hayvan.cs" />
+    <Compile Include="Entity\Muayene.cs" />
+    <Compile Include="Entity\ParolaViewModel.cs" />
+    <Compile Include="Entity\Personel.cs" />
+    <Compile Include="Giris.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Giris.Designer.cs">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HataYonetimi\HataYonetimi.cs" />
+    <Compile Include="HayvanArama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HayvanArama.Designer.cs">
+      <DependentUpon>HayvanArama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HayvanGuncelle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HayvanGuncelle.Designer.cs">
+      <DependentUpon>HayvanGuncelle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HayvanKayit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HayvanKayit.Designer.cs">
+      <DependentUpon>HayvanKayit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HayvanMuayeneIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HayvanMuayeneIslemleri.Designer.cs">
+      <DependentUpon>HayvanMuayeneIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Islemler\PersonelIslemler.cs" />
+    <Compile Include="Islemler\YoneticiIslemler.cs" />
+    <Compile Include="ParolaDegistirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ParolaDegistirme.Designer.cs">
+      <DependentUpon>ParolaDegistirme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelEkle.Designer.cs">
+      <DependentUpon>PersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelEkrani.Designer.cs">
+      <DependentUpon>PersonelEkrani.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelIslemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PersonelIslemleri.Designer.cs">
+      <DependentUpon>PersonelIslemleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="YoneticiEkrani.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YoneticiEkrani.Designer.cs">
+      <DependentUpon>YoneticiEkrani.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Giris.resx">
+      <DependentUpon>Giris.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HayvanArama.resx">
+      <DependentUpon>HayvanArama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HayvanGuncelle.resx">
+      <DependentUpon>HayvanGuncelle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HayvanKayit.resx">
+      <DependentUpon>HayvanKayit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HayvanMuayeneIslemleri.resx">
+      <DependentUpon>HayvanMuayeneIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParolaDegistirme.resx">
+      <DependentUpon>ParolaDegistirme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelEkle.resx">
+      <DependentUpon>PersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelEkrani.resx">
+      <DependentUpon>PersonelEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PersonelIslemleri.resx">
+      <DependentUpon>PersonelIslemleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="YoneticiEkrani.resx">
+      <DependentUpon>YoneticiEkrani.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1352055079_door_in.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dosyalar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kullaniciekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Login %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\randevu resim.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekreterekle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekreterekle1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sekreterekle2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sifredegis.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sifresifirla.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

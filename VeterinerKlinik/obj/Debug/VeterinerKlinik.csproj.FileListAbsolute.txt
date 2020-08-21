@@ -1,0 +1,47 @@
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe.config
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.pdb
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csprojAssemblyReference.cache
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Form1.resources
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Properties.Resources.resources
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.GenerateResource.cache
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.CoreCompileInputs.cache
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.exe
+C:\Users\bünyamin demir\source\repos\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.pdb
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe.config
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.pdb
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Giris.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanArama.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanKayit.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanMuayeneIslemleri.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.ParolaDegistirme.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelEkle.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelEkrani.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelIslemleri.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Properties.Resources.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.YoneticiEkrani.resources
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.GenerateResource.cache
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.CoreCompileInputs.cache
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.exe
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.pdb
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csprojAssemblyReference.cache
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe.config
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.exe
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\bin\Debug\VeterinerKlinik.pdb
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csprojAssemblyReference.cache
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Giris.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanArama.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanKayit.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanMuayeneIslemleri.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.ParolaDegistirme.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelEkle.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelEkrani.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.PersonelIslemleri.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.Properties.Resources.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.YoneticiEkrani.resources
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.GenerateResource.cache
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.csproj.CoreCompileInputs.cache
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.exe
+C:\Users\hakan.demir\Desktop\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.pdb
+C:\Users\hakan.demir\Desktop\ProjeOdevi\VeterinerKlinik\VeterinerKlinik\obj\Debug\VeterinerKlinik.HayvanGuncelle.resources
